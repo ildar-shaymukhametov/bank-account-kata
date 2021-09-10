@@ -44,3 +44,15 @@ Don't worry about spacing and indentation in the statement output. (You could in
 Use the acceptance test to guide your progress towards the solution. Some do this by making all unimplemented methods throw an exception, so that he can immediately see what remains to be implemented when he runs the acceptance test.
 When in doubt, go for the simplest solution!
 
+# The Rules
+
+1. One level of indentation per method
+2. Don’t use the ELSE keyword
+3. Wrap all primitives and Strings
+4. First class collections
+5. One dot per line
+6. Don’t abbreviate
+7. Keep all entities small
+8. No classes with more than two instance variables
+9. No getters/setters/properties
+
